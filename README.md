@@ -1,2 +1,2 @@
 # Python
-Programming Challenges &amp; Focus Areas
+Programming Challenges
